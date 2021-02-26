@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### I am a Computer Engineer.
-Currently Working on      -- Data Engineering, Cloud and Competitive Programming
-Currently Learning        -- Python, Algorithms and Machine Learning
-Looking to collaborate on -- Machine Learning and Data Science
-How to reach me           -- rushiraj.chavan-coel@bvp.edu.in
+### Currently Working on      -- Data Engineering, Cloud and Competitive Programming
+### Currently Learning        -- Python, Algorithms and Machine Learning
+### Looking to collaborate on -- Machine Learning and Data Science
+### How to reach me           -- rushiraj.chavan-coel@bvp.edu.in
