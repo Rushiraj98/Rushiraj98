@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am a Computer Engineer graduating from Savitribai Phule PUne University.
-### I am Currently Working on      -- Data Engineering, Cloud and Competitive Programming (C++)
-### I am Currently Learning        -- Python, Algorithms and Machine Learning
+### I am a Computer Engineer by training graduated from Savitribai Phule Pune University.
+### I am Currently Working on      -- Improving runtime and complexity of Python using vectorization, Competitive Programming, NLP, CV, AzureML
+### I am Currently Learning        -- AzureML, Python, Numba, Streamlit, Algorithms and Machine Learning
 ### I am looking to collaborate on -- Machine Learning and Data Science
-### How to reach me                -- rushiraj.chavan-coel@bvp.edu.in
+### How to reach me                -- rushiraj.chavan@outlook.com
